@@ -1,2 +1,3 @@
 # Projeto_Pandas
- Projeto Biblioteca pandas
+ Projeto Biblioteca pandas.
+ O objetivo desse projeto é aplicar as funcionalidades aprendidas em um exemplo prático
